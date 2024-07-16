@@ -1,4 +1,4 @@
-# Here was learning life cycle of class components
+# Here was learning events on class components
 
 ## This PROJECT is using React + Vite
 
